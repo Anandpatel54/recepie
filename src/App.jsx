@@ -11,7 +11,7 @@ import Update from "./components/Update";
 
 const App = () => {
     return (
-        <div className="w-[80%] m-auto ">
+        <div className="w-[80%] m-auto">
             <Nav />
 
             <Routes>
